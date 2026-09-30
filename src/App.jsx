@@ -38,6 +38,9 @@ function App() {
             <use href="/icons.svg#documentation-icon"></use>
           </svg>
           <h2>Documentation</h2>
+
+          <h1 className='text-3xl text-rose-600 font-bold'>Holo</h1>
+
           <p>Your questions, answered</p>
           <ul>
             <li>
